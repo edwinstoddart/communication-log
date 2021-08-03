@@ -1,5 +1,7 @@
 body {
     color: white;
     background: black;
-    text-align: center;
+    font-size: 150%;
+    font-family: 'Satisfy', cursive;
+    margin: 5em 25%;
 }
